@@ -1,0 +1,21 @@
+Customer_ID	Age	Annual_Income	Current_Investment_Amount	Risk_Tolerance	Financial_Goals	Debt_to_Income_Ratio	Savings_Rate	Credit_Score	Investment_Preference	Retirement_Age_Goal	Monthly_Expenses
+CUST_001	41	52,386	24,635	High	Home Purchase	0.44	0.12	663	Bonds	60	1,607
+CUST_002	59	52,676	31,693	High	Children's Education	0.43	0.22	847	Stocks	57	3,313
+CUST_003	38	69,818	37,575	Low	Home Purchase	0.23	0.17	778	Bonds	57	2,919
+CUST_004	48	70,124	28,319	Low	Home Purchase	0.40	0.28	826	Real Estate	62	4,629
+CUST_005	34	55,243	44,395	Moderate	Children's Education	0.17	0.05	815	ETFs	58	4,327
+CUST_006	34	57,174	36,561	High	Wealth Building	0.18	0.09	632	Mutual Funds	67	3,810
+CUST_007	39	66,202	7,663	Low	Retirement	0.31	0.15	827	Stocks	69	3,956
+CUST_008	28	138,792	11,081	High	Wealth Building	0.18	0.05	721	Mutual Funds	56	3,544
+CUST_009	57	36,510	46,571	High	Retirement	0.13	0.12	629	Real Estate	61	4,850
+CUST_010	35	114,024	24,546	Moderate	Home Purchase	0.22	0.21	664	Bonds	66	3,506
+CUST_011	58	37,329	19,908	Low	Retirement	0.17	0.18	722	ETFs	65	4,850
+CUST_012	58	128,388	6,154	Moderate	Children's Education	0.12	0.13	632	Stocks	55	4,086
+CUST_013	31	78,043	19,683	Moderate	Retirement	0.23	0.08	737	ETFs	61	3,829
+CUST_014	33	104,895	23,359	Moderate	Home Purchase	0.10	0.06	841	Real Estate	69	4,557
+CUST_015	37	129,586	31,919	Low	Children's Education	0.33	0.30	842	Mutual Funds	55	1,939
+CUST_016	46	70,824	12,274	Moderate	Children's Education	0.12	0.22	690	ETFs	62	4,466
+CUST_017	30	72,401	24,764	High	Children's Education	0.27	0.17	711	Bonds	64	2,788
+CUST_018	52	134,592	16,476	Low	Home Purchase	0.43	0.10	830	Bonds	62	2,281
+CUST_019	44	117,008	8,281	Moderate	Children's Education	0.19	0.13	618	ETFs	56	1,878
+CUST_020	26	107,766	12,108	Low	Home Purchase	0.44	0.10	679	Stocks	56	4,011
